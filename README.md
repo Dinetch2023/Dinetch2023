@@ -1,5 +1,8 @@
 # 💫 About Me:
-En reconversion professionnelle, avec la Wild Code School, pour le métier de Développeur Web.<br>Mes précédentes expériences m'ont permis de perfectionner mes techniques de communication.<br>Je fais preuve d'esprit d'équipe, de curiosité, d'initiatives.<br>Je mets tout en œuvre pour atteindre mes objectifs.<br>
+En reconversion professionnelle, avec la Wild Code School, pour le métier de Développeur Web.<br>
+Mes précédentes expériences m'ont permis de perfectionner mes techniques de communication.<br>
+Je fais preuve d'esprit d'équipe, de curiosité, d'initiatives.<br>
+Je mets tout en œuvre pour atteindre mes objectifs.<br>
 
 
 ## 🌐 Socials:
